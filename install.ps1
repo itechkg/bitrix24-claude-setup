@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 $ProgressPreference = "SilentlyContinue"
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 
-$REPO_ZIP = "https://github.com/slnightSlider/bitrix24-claude-setup/archive/refs/heads/master.zip"
+$REPO_ZIP = "https://github.com/itechkg/bitrix24-claude-setup/archive/refs/heads/master.zip"
 $INSTALL_DIR = "C:\bitrix24-mcp-server"
 $CONFIG_URL = "https://config.rsqt.com.kg"
 

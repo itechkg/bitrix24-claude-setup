@@ -6,7 +6,7 @@ set -e
 INSTALL_DIR="$HOME/.bitrix24-mcp-server"
 BITRIX24_DIR="$HOME/bitrix24"
 CONFIG_URL="https://config.rsqt.com.kg"
-REPO_ZIP="https://github.com/slnightSlider/bitrix24-claude-setup/archive/refs/heads/master.zip"
+REPO_ZIP="https://github.com/itechkg/bitrix24-claude-setup/archive/refs/heads/master.zip"
 CLAUDE_JSON="$HOME/.claude.json"
 SETTINGS_JSON="$HOME/.claude/settings.json"
 
